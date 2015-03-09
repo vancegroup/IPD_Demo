@@ -1,0 +1,2 @@
+cd  /d "C:\Users\Public\Documents\DEMOS\windows-snapshot\"
+bin\NavTestbed.exe C:/Users/Public/Documents/DEMOS/IPD/everything-except-user.jconf C:/Users/Public/Documents/jconf30/mixins/iod-080.jconf C:/Users/Public/Documents/DEMOS/ConferenceRoom/main.lua
